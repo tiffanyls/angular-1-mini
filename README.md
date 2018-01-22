@@ -4,6 +4,10 @@
 
 In this project we'll create a basic Angular application from scratch. Getting used to structuring your Angular application is an important skill to get right. Many times as beginners the hardest part about Angular is figuring out where to put stuff. Hopefully this project will start you on the right path so you can correctly structure all your Angular projects in the future.
 
+# Live Example
+
+<a href="https://devmountain.github.io/angular-1-mini/">Click Me!</a>
+
 ## Setup
 
 * Fork and clone this repository.
